@@ -4,6 +4,12 @@ This is a template for a new project.
 
 ## How to use
 
+### Method 1
+
+1. Click on `Use this template` button
+
+### Method 2
+
 1. Clone this repository
 
 ```bash
