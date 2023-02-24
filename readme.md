@@ -2,6 +2,42 @@
 
 This is a template for a new project.
 
+## How to use
+
+1. Clone this repository
+
+```bash
+git clone https://github.com/vukovicpavle/orange-template.git <project-name>
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Change name and description in `package.json`
+
+4. Update `readme.md`
+
+5. Change git remote
+
+```bash
+git remote set-url origin <new-repository-url>
+```
+
+6. Push to new repository
+
+```bash
+git push -u origin main
+```
+
+7. When ready, publish to npm
+
+```bash
+npm publish --access public
+```
+
 ## Installation
 
 ```bash
